@@ -1,0 +1,19 @@
+
+.card{
+    height: 610px;
+    box-shadow: 10px 10px 20px rgb(204, 185, 185);
+    border-radius: 10px;
+    transition: 0.6s;
+}
+.card img{
+    padding: 10px;
+}
+.add-btn{
+    
+    background-color: rgb(243, 120, 120);
+    width: 220px;
+    border: lightcoral;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}

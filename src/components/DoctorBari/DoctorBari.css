@@ -1,0 +1,10 @@
+.doctorbari{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    background-image: url(https://images.clipartlogo.com/files/istock/previews/9060/90603295-doctor-in-hospital-ward.jpg);
+    padding-bottom: 10px;
+}
+
+.doctor{
+    padding-right: 50px;
+}
